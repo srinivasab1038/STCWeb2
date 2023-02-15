@@ -1,0 +1,5 @@
+# Created at 2023-01-29T13:59:43.725
+Boot Manifest-JAR contains absolute paths in classpath 'D:\STC_Automation\STCWeb\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
